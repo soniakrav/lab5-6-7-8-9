@@ -1,0 +1,332 @@
+[
+    {
+        "page": 1,
+        "pages": 1,
+        "per_page": 500,
+        "total": 20,
+        "sourceid": "2",
+        "lastupdated": "2026-07-13"
+    },
+    [
+        {
+            "indicator": {
+                "id": "SP.DYN.LE00.IN",
+                "value": "Life expectancy at birth, total (years)"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "2019",
+            "value": 73.92,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.DYN.LE00.IN",
+                "value": "Life expectancy at birth, total (years)"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "2018",
+            "value": 73.569,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.DYN.LE00.IN",
+                "value": "Life expectancy at birth, total (years)"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "2017",
+            "value": 73.993,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.DYN.LE00.IN",
+                "value": "Life expectancy at birth, total (years)"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "2016",
+            "value": 73.389,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.DYN.LE00.IN",
+                "value": "Life expectancy at birth, total (years)"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "2015",
+            "value": 72.686,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.DYN.LE00.IN",
+                "value": "Life expectancy at birth, total (years)"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "2014",
+            "value": 71.803,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.DYN.LE00.IN",
+                "value": "Life expectancy at birth, total (years)"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "2013",
+            "value": 71.474,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.DYN.LE00.IN",
+                "value": "Life expectancy at birth, total (years)"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "2012",
+            "value": 71.09,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.DYN.LE00.IN",
+                "value": "Life expectancy at birth, total (years)"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "2011",
+            "value": 70.711,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.DYN.LE00.IN",
+                "value": "Life expectancy at birth, total (years)"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "2010",
+            "value": 70.188,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.DYN.LE00.IN",
+                "value": "Life expectancy at birth, total (years)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "countryiso3code": "USA",
+            "date": "2019",
+            "value": 78.7878048780488,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.DYN.LE00.IN",
+                "value": "Life expectancy at birth, total (years)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "countryiso3code": "USA",
+            "date": "2018",
+            "value": 78.6390243902439,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.DYN.LE00.IN",
+                "value": "Life expectancy at birth, total (years)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "countryiso3code": "USA",
+            "date": "2017",
+            "value": 78.5390243902439,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.DYN.LE00.IN",
+                "value": "Life expectancy at birth, total (years)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "countryiso3code": "USA",
+            "date": "2016",
+            "value": 78.5390243902439,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.DYN.LE00.IN",
+                "value": "Life expectancy at birth, total (years)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "countryiso3code": "USA",
+            "date": "2015",
+            "value": 78.690243902439,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.DYN.LE00.IN",
+                "value": "Life expectancy at birth, total (years)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "countryiso3code": "USA",
+            "date": "2014",
+            "value": 78.8414634146341,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.DYN.LE00.IN",
+                "value": "Life expectancy at birth, total (years)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "countryiso3code": "USA",
+            "date": "2013",
+            "value": 78.7414634146342,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.DYN.LE00.IN",
+                "value": "Life expectancy at birth, total (years)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "countryiso3code": "USA",
+            "date": "2012",
+            "value": 78.7414634146342,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.DYN.LE00.IN",
+                "value": "Life expectancy at birth, total (years)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "countryiso3code": "USA",
+            "date": "2011",
+            "value": 78.6414634146341,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.DYN.LE00.IN",
+                "value": "Life expectancy at birth, total (years)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "countryiso3code": "USA",
+            "date": "2010",
+            "value": 78.5414634146342,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        }
+    ]
+]
